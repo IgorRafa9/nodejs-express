@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Criando API com express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorRafa9/nodejs-express.git"
+  },
+  "author": "Igor Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorRafa9/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/IgorRafa9/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
